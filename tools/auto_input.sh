@@ -2,7 +2,7 @@
 # - written by @aonrjp
 
 TYPES=("houshin" "soukatsu")
-SECTIONS=("kaikei" "kensui" "soumu" "syogai" "system" "zentai")
+SECTIONS=("kaisou" "kensui" "syogai" "system" "zentai")
 
 for type in ${TYPES[@]}
 do

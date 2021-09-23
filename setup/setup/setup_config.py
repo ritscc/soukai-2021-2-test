@@ -13,7 +13,7 @@ ASSIGNEE_PATH: str = '../assignee.yml'
 SRC_ROOT_PATH: str = '../src'
 
 # 定数系
-DEPARTMENTS: list = ['kaikei', 'kensui', 'syogai', 'system', 'soumu']
+DEPARTMENTS: list = ['kaisou', 'kensui', 'syogai', 'system']
 KAISEI_COMMANDS: list = ['\\firstGrade', '\\secondGrade', '\\thirdGrade', '\\fourthGrade']
 
 # 不要ファイル

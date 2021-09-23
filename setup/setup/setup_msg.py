@@ -23,11 +23,10 @@ type:
 
 section:
   zentai
-  kaikei
+  kaisou
   kensui
   syogai
   system
-  soumu
 
 Example:
   python setup.py I

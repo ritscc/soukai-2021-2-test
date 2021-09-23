@@ -12,5 +12,5 @@
   - any: ["src/**/syogai/*.tex"]
 研究推進局:
   - any: ["src/**/kensui/*.tex"]
-総務局:
-  - any: ["src/**/soumu/*.tex"]
+会計総務局:
+  - any: ["src/**/kaisou/*.tex"]
